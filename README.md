@@ -143,10 +143,6 @@ Supports Windows & Linux.
 
 ---
 
-<img src="https://metrics.lecoq.io/LoonieLoonz?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&followup=1" />
-
----
-
 ## 📊 Live TF2 Server Stats
 *(Live analytics available via my website — link coming soon.)*
 
