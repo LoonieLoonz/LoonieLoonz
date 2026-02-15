@@ -6,17 +6,9 @@
 
 ## Service Status
 
-| Service | Service | Service | Service |
+| A-L.Pro | Mi.Baby | HU.Spac |  RLINE  |
 |---------|---------|---------|---------|
 | [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Miku.Baby](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro) | [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) |
-
-## GitHub Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=LoonieLoonz&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LoonieLoonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoonieLoonz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
-</div>
 
 ## Technical Skills
 
