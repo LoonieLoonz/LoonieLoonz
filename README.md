@@ -43,7 +43,7 @@ Free and open source.
 </details>
 
 <p align="center">
-<img src="https://statsrepo.vercel.app//api/pin/?username=Redline-Team&repo=RPM&theme=transparent"/>
+<img src="https://statsrepo.vercel.app/api/pin/?username=Redline-Team&repo=RPM&theme=transparent"/>
 </p>
 
 ---
@@ -67,10 +67,6 @@ Core functionality:
 Supports Windows & Linux.
 
 </details>
-
-<p align="center">
-<img src="https://statsrepo.vercel.app//api/pin/?username=Synapse-Host&repo=Synapse&theme=transparent"/>
-</p>
 
 ---
 
@@ -138,8 +134,8 @@ Supports Windows & Linux.
 
 ## 📊 GitHub Activity
 
-<img src="https://statsrepo.vercel.app//api?username=LoonieLoonz&show_icons=true&theme=transparent" height="165"/>
-<img src="https://statsrepo.vercel.app//api/top-langs/?username=LoonieLoonz&layout=compact&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api?username=LoonieLoonz&show_icons=true&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api/top-langs/?username=LoonieLoonz&layout=compact&theme=transparent" height="165"/>
 
 ---
 
