@@ -1,100 +1,182 @@
 <div align="center">
 
-# LoonieLoonz
-> Software Developer & Linux Enthusiast from Japan  
-> UWSM Hyprland & KDE Plasma on Arch Linux
+<img src="./Loonz.png" width="100%" />
 
-## Service Status
+# 👋 LoonieLoonz
+> Software Developer & Linux Enthusiast  
+> Building game tooling, automation, and community infrastructure
 
-| A-L.Pro | Mi.Baby | HU.Spac |  RLINE  |
-|---------|---------|---------|---------|
+UWSM Hyprland & KDE Plasma on Arch Linux
+
+---
+
+## 🚀 What I Build
+
+I create tooling and infrastructure that help gaming communities and creators work more efficiently, focusing on workflow automation, server tooling, and creator productivity systems.
+
+---
+
+## 🛠️ Featured Projects
+
+### 🎮 RPM — Redline Package Manager
+
+![Release](https://img.shields.io/github/v/release/Redline-Team/RPM)
+![Downloads](https://img.shields.io/github/downloads/Redline-Team/RPM/total)
+![Stars](https://img.shields.io/github/stars/Redline-Team/RPM)
+
+A Unity editor extension for VRChat creators that brings package management and workflow tooling directly into the editor.
+
+<details>
+<summary>🔍 Expand RPM Summary</summary>
+
+RPM provides:
+
+• In-editor package browsing & installation  
+• Repository importing support  
+• Dependency visualization  
+• Installation history tools  
+• Scene autosave & memory tools  
+• Workflow & productivity utilities  
+
+Free and open source.
+
+</details>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Redline-Team&repo=RPM&theme=transparent"/>
+</p>
+
+---
+
+### 🛡️ Synapse AntiCheat — TF2 Detection System
+
+Automated cheat detection and launcher ecosystem helping TF2 communities automatically identify and remove cheaters.
+
+<details>
+<summary>🔍 Expand Synapse Summary</summary>
+
+Core functionality:
+
+• Replay-based cheat detection  
+• Automated player classification  
+• Auto kick & reporting tools  
+• Integrated launcher optimizations  
+• Database integrations  
+• Local analysis without invasive tracking  
+
+Supports Windows & Linux.
+
+</details>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Synapse-Host&repo=Synapse&theme=transparent"/>
+</p>
+
+---
+
+## 📡 Service Status
+
+| A-L.Pro | Mi.Baby | HU.Spac | RLINE |
+|---------|---------|---------|-------|
 | [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Miku.Baby](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro) | [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) |
 
-## Technical Skills
+---
 
+## 🛠️ Technical Skills
+
+### 🧠 Game & Tool Development
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux" title="Arch Linux" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" title="Bash" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake" title="CMake" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron" title="Electron" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40"/>
 </div>
 
+### 🌐 Web & UI
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains" title="JetBrains" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua" title="Lua" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown" title="Markdown" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40"/>
 </div>
 
+### ⚙️ Backend & Infrastructure
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" title="Nginx" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm" title="PhpStorm" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm" title="PyCharm" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt" title="Qt" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
 </div>
 
+### 🐧 Linux & Tooling
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" title="Sass" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs" title="Three.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" title="Unity" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim" title="Vim" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm" title="WebStorm" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn" title="Yarn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40"/>
 </div>
 
-## Connect With Me
+---
 
-<div align="center">
-  <a href="https://youtube.com/@LoonieLoonz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
-  </a>
-  <a href="https://discord.com/users/1016895892055396484" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="https://patreon.com/LoonieLoonz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Patreon" />
-  </a>
-</div>
+## 📊 GitHub Activity
 
-## Contact
-📧 Email:
-- loonz@arch-linux.pro
+<img src="https://github-readme-stats.vercel.app/api?username=LoonieLoonz&show_icons=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoonieLoonz&layout=compact&theme=transparent" height="165"/>
 
-<img src="https://raw.githubusercontent.com/LoonieLoonz/LoonieLoonz/output/snake.svg" alt="Snake animation" />
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoonieLoonz&theme=github-compact&hide_border=true" width="95%"/>
+
+---
+
+<img src="https://metrics.lecoq.io/LoonieLoonz?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&followup=1" />
+
+---
+
+## 📊 Live TF2 Server Stats
+*(Live analytics available via my website — link coming soon.)*
+
+---
+
+## 🤝 Connect With Me
+
+<a href="https://youtube.com/@LoonieLoonz">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+<a href="https://discord.com/users/1016895892055396484">
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+<a href="https://patreon.com/LoonieLoonz">
+<img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&color=F96854&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+---
+
+## 📬 Contact
+
+📧 **loonz@arch-linux.pro**
+
+---
+
+<img src="https://raw.githubusercontent.com/LoonieLoonz/LoonieLoonz/output/snake.svg"/>
 
 <img src="https://count.getloli.com/@LoonieLoonz?name=LoonieLoonz&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
