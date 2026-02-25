@@ -153,9 +153,6 @@ Supports Windows & Linux.
 <a href="https://youtube.com/@LoonieLoonz">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
 </a>
-<a href="https://discord.com/users/1016895892055396484">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
-</a>
 <a href="https://patreon.com/LoonieLoonz">
 <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&color=F96854&logoColor=white&style=for-the-badge" height="35"/>
 </a>
