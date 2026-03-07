@@ -72,9 +72,9 @@ Supports Windows & Linux.
 
 ## 📡 Service Status
 
-| A-L.Pro | Mi.Baby | HU.Spac | RLINE |
-|---------|---------|---------|-------|
-| [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Miku.Baby](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro) | [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) |
+| A-L.Pro | RLINE |
+|---------|-------|
+| [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) |
 
 ---
 
