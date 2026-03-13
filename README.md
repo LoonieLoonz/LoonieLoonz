@@ -9,7 +9,7 @@ I don't even know any russian so I don't even know how yall think this
 Everything I create is linked to this account in some way, it should literally be obvious  
 </details>
 
-<img src="./Loonz.png" width="100%" />
+<img src="./Roze.png" width="100%" />
 
 # 👋 Roze Thorns
 > Software Developer & Linux Enthusiast  
